@@ -1,0 +1,1 @@
+{"index.js":"// Only change code below this line\nvar remainder;\nremainder = 14 %3;\n"}
